@@ -1,21 +1,21 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "粘贴自己的",
+"app_id": "wx619bc14bbac0b1e4",
 # 公众号appSecret
-"app_secret": "粘贴自己的",
+"app_secret": "a79cc2b1f2e92ad2a339ae9f72db755d",
 # 模板消息id
-"template_id": "粘贴自己的",
+"template_id": "s8TKVUGxQhfdDZPwqOX22oAcVYLeIJ-YfiivigPp2Us	",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["粘贴自己的，不是自己的微信号，而是扫描二维码后，右边的那个很长的一串字符"],
+"user": ["oL20Y6bavxLrKObZjMUVELQEOATw"],
 
 # 信息配置
 # 和风天气apikey
-"weather_key": "粘贴自己的",
+"weather_key": "4174953e75e54b8892ea29b29be955a7",
 # 天行数据apikey
-"tian_api": "粘贴自己的",
+"tian_api": "533149376d97be673b963dec1374e756",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "杭州",
+"region": "天津",
 # 生日
 "birthday1": {"name": "山野分享屋", "birthday": "2003-08-03"},
 # 在一起的日子，格式同上
